@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ayaan Shaikh a professional data analyst. I love to manage, organize, clean, analysis and visualize data to get a useful insight from it which helps stakeholders to act accordingly.
+- 👀 I’m interested in data analytics and data science
+- 🌱 I’m currently learning data science
+- 📫 You can reach me out at twitter - @ayaansk99
