@@ -7,10 +7,10 @@ Greetings! I am Ayaan Shaikh, currently excelling as an Cloud Data Engineer & An
 <p align='center'>
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" />&nbsp; 
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="bablubambal" height="50" width="50" />&nbsp;
+<img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" height="50" width="50" />&nbsp;
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" alt="bablubambal" height="50" width="50" />&nbsp;
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/azure.svg" alt="Azure" height="50" width="50" />&nbsp;
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/gcloud.svg" alt="GoogleCloud" height="50" width="50" />&nbsp;
-<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/gcloud.svg" alt="GoogleCloud" height="50" width="50" />&nbsp;
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/gcloud.svg" alt="GoogleCloud" height="50" width="50" />&nbsp;  
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/cloud/amazon.svg" alt="Github" height="50" width="50" />&nbsp;
 
 </p>
