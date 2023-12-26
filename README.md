@@ -1,4 +1,4 @@
-Greetings! I am Ayaan Shaikh, currently excelling as an Cloud Data Engineer & Analyst at Vistra. With a year of hands-on experience on Azure and a Master's in Science of Information Technology from Mumbai University, I am deeply passionate about the entire data life cycle.
+Greetings! I am Ayaan Shaikh, currently excelling as an Azure Data Engineer & Analyst at Vistra. With a year of hands-on experience on Azure services and a Master's in Science of Information Technology from Mumbai University, I am deeply passionate about the entire data life cycle.
 
 </p>
 
