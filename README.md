@@ -19,13 +19,13 @@ I am Ayaan Shaikh, currently excelling as an Azure Data Engineer & Analyst at Vi
 </p>
 
 🔍 **Skills Snapshot:**
-- Big Data: PySpark, HiveQL, NO SQL
-- Programming: Python, SQL
-- Analysis & Visualization Tools: Pandas, Numpy, Power BI, Tableau
-- Machine Learning: Scikit-Learn, Regression Analysis, Classification
-- Cloud Technologies: Azure (Blob Storage, Data Factory, Databricks, Synapse, Data Lake), Google Cloud (BigQuery, Data Studio)
-- Database Management: MySQL, PostgreSQL, SQLite, MS SQL Server, MongoDB
-- Other Skills: Data Manipulation, Cleansing, Transformation, ML Model Implementation, EDA, Risk Assessment, Big Data Analysis, Hadoop, ETL, Data Modeling, Statistical Analysis
+- Big Data: PySpark, HiveQL, NO SQL.
+- Programming: Python, SQL.
+- Analysis & Visualization Tools: Pandas, Numpy, Power BI, Tableau.
+- Machine Learning: Scikit-Learn, Regression Analysis, Classification.
+- Cloud Technologies: Azure (Blob Storage, Data Factory, Databricks, Synapse, Data Lake, Azure Data Studio), Google Cloud (BigQuery, Data Studio).
+- Database Management: MySQL, PostgreSQL, SQLite, MS SQL Server, MongoDB.
+- Other Skills: Data Manipulation, Cleansing, Transformation, Visualization, ML Model Implementation, EDA, Risk Assessment, Big Data Analysis, Hadoop, ETL, Data Modeling, Statistical Analysis, Task Automation.
 
 💡 **Key Strengths:**
 - Passionate about data cleaning, preparation, transformation, ingestion, processing, and visualization.
