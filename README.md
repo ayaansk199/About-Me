@@ -4,13 +4,15 @@ I am Ayaan Shaikh, currently excelling as an Azure Data Engineer & Analyst at Vi
 
 <h2 align='left'>Known Technologies:</h2>
 
-<p align='center'>
+<p align='left'>
   <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/python.svg" alt="python" height="50" width="50" />&nbsp;
-  <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/icons8-sql-64.png" alt="SQL" height="50" width="50" />&nbsp; 
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="postgresql" height="50" width="50" />&nbsp;
-  <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/icons8-microsoft-sql-server-48.png" alt="SQL Server" height="50" width="50" />&nbsp;
+  <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/Azure%20SQL.png" alt="SQL" height="45" width="45" />&nbsp; 
   <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/images.png" alt="PySpark" height="50" width="85" />&nbsp;
-  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mongodb.svg" alt="bablubambal" height="80" width="80" />&nbsp;  
+  <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/HiveQL.png" alt="HiveQL" height="50" width="70" />&nbsp;
+  <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/Mongodb-PNG-Image-HD.png" alt="MongoDB" height="60" width="60" />&nbsp;
+  <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/pandas.png" alt="Pandas" height="60" width="70" />&nbsp;
+  <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="postgresql" height="50" width="50" />&nbsp;
+  <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/icons8-microsoft-sql-server-48.png" alt="SQL Server" height="50" width="50" />&nbsp;  
   <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI" height="40" width="38" />&nbsp;
   <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/icons8-tableau-software-48.png" alt="Tableau" height="40" width="40" />&nbsp;
   <img src="https://github.com/ayaansk199/png_for_my_readme/blob/main/icons8-excel-48.png" alt="Excel" height="45" width="40" />&nbsp;
